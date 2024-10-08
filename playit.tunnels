@@ -9,33 +9,33 @@
       "active": true,
       "alloc": {
         "data": {
-          "assigned_domain": "organization-hang.gl.joinmc.link",
-          "assigned_srv": "organization-hang.gl.joinmc.link",
+          "assigned_domain": "council-trance.gl.joinmc.link",
+          "assigned_srv": "council-trance.gl.joinmc.link",
           "assignment": {
             "type": "shared-ip"
           },
-          "id": "ed2c527c-c830-4d31-9506-fdbcb12a2f9f",
+          "id": "e660f7e2-3762-449e-b8b7-69d14558f70b",
           "ip_hostname": "21.ip.gl.ply.gg",
           "ip_type": "both",
-          "port_end": 61059,
-          "port_start": 61058,
+          "port_end": 37382,
+          "port_start": 37381,
           "region": "global",
           "static_ip4": "147.185.221.21",
           "tunnel_ip": "2602:fbaf:0:1::15"
         },
         "status": "allocated"
       },
-      "created_at": "2024-08-10T06:17:18.510971Z",
+      "created_at": "2024-10-08T23:45:07.555171Z",
       "disabled_reason": null,
       "domain": null,
       "expire_notice": null,
       "firewall_id": null,
-      "id": "b6cf28ec-98f2-437b-908a-a81bb6a1be99",
+      "id": "d085e4ea-e148-4243-a7f6-4e56597492dc",
       "name": "Minecraft Java",
       "origin": {
         "data": {
-          "agent_id": "d4155ef0-a041-4e45-a6d5-0a96e04c38a1",
-          "agent_name": "miedo",
+          "agent_id": "1771da2b-3709-46f5-a7e6-29c291fa83bc",
+          "agent_name": "from-key-1d5c",
           "local_ip": "127.0.0.1",
           "local_port": 25565
         },
@@ -43,6 +43,7 @@
       },
       "port_count": 1,
       "port_type": "tcp",
+      "proxy_protocol": null,
       "ratelimit": {
         "bytes_per_second": null,
         "packets_per_second": null
