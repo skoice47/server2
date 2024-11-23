@@ -1,0 +1,5 @@
+{ "pack": {
+	"description": "Adds naturally generated Pokémon nests",
+	"pack_format": 15,
+	"supported_formats": [18,26]
+}}

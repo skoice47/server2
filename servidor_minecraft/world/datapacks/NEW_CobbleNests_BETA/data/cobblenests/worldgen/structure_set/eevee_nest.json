@@ -1,0 +1,13 @@
+{
+	"placement": {
+		"type": "minecraft:random_spread",
+		"salt": 10411245,
+		"separation": 20,
+		"spacing": 40,
+		"spread_type": "triangular"
+	},
+	"structures": [{
+		"structure": "cobblenests:eevee_nest",
+		"weight": 1
+	}]
+}

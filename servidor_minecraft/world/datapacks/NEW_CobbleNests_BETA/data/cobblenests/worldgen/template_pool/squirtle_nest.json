@@ -1,0 +1,13 @@
+{
+	"name": "cobblenests:squirtle_nest",
+	"fallback": "minecraft:empty",
+	"elements": [{
+		"weight": 1,
+		"element": {
+			"location": "cobblenests:squirtle_nest",
+			"processors": "minecraft:empty",
+			"projection": "rigid",
+			"element_type": "minecraft:single_pool_element"
+		}
+	}]
+}

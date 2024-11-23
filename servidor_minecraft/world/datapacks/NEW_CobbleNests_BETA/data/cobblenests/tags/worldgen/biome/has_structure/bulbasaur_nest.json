@@ -1,0 +1,7 @@
+{ "values": [
+	"minecraft:flower_forest",
+	{
+		"id": "terralith:blooming_valley",
+		"required": false
+	}
+]}

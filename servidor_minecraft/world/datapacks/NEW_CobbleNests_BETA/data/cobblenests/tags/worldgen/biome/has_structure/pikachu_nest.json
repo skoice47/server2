@@ -1,0 +1,7 @@
+{ "values": [
+	"minecraft:forest",
+	{
+		"id": "terralith:shield",
+		"required": false
+	}
+]}
